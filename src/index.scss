@@ -1,4 +1,5 @@
 @import "./styles/config";
+@import "./styles/menu";
 
 * {
   box-sizing: border-box;
@@ -68,3 +69,5 @@ main {
     }
   }
 }
+
+@import "./styles/mobile";
